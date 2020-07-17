@@ -36,9 +36,9 @@ For reference an HTML version of the notebook is also available.
 
 Lastly, the seattle folder contains the dataset from Kaggle (https://www.kaggle.com/airbnb/seattle). It contains 3 files:
 
-calendar.csv: calendar availability of listings and price
-listings.csv: information about all the available listings
-reviews.csv: listing reviews by the users
+<li>calendar.csv: calendar availability of listings and price</li>
+<li>listings.csv: information about all the available listings</li>
+<li>reviews.csv: listing reviews by the users</li>
 
 I wrote a blog about my findings on the following questions:
 <li>Who are the top performers in Airbnb business?</li>
