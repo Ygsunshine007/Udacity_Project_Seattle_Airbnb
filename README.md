@@ -17,18 +17,8 @@ The Libraries That I Have Used
 The project was implemented using Anaconda distribution of Python 3.0. Moreover I have used the following python libraries:
 
 My Project Motivation
-I was interested in exploring the AirBnB dataset for Seattle. I wanted to better understand the pricing trends, review sentiments and pricing prediction. Some of the questions that I have analyzed are:
+I was interested in exploring the AirBnB dataset for Seattle. I wanted to better understand the pricing trends, review sentiments and pricing prediction. 
 
-How does the pricing increase or decrease by season?
-What is the peak season in Seattle?
-How does the pricing increase or decrease by neighborhood?
-Which ones are the priciest neighborhoods in Seattle?
-How does property types within neighborhoods impact price for the most expensive neighborhoods and most common property types?
-How can we categorize reviews based on sentiments?
-Can we map positive and negative sentiments from reviews to neighborhoods to understand which neighborhoonds rank higher on the positive sentiment scale and which ones rank higher on the negative sentiment scale?
-Can we explore some of the worst reviews for additional insights?
-Can we predict a price for a given listing?
-What factors of the listing correlate best for predicting the price?
 File Descriptions
 The Jupyter notebook showcases the analysis done in order to explore the dataset, the data prepartion and wrangling as well as the building of prediction models in order to answer the questions above. The notebook contains markdown cells to help with documentation of the steps as well as to communicate findings based on each analysis.
 
@@ -49,3 +39,4 @@ I wrote a blog about my findings on the following questions:
 The bolg can be accessed using the following link:
 https://medium.com/@ygsunshine86/5-advice-on-managing-airbnb-listings-9c7861f404ff
 
+I've also included a html version of the juptyer notebook for submission review
